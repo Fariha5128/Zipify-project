@@ -241,13 +241,13 @@ padding-bottom: 22px;
 }
 .footer-section li a{
 	list-style: none;
-	
+	text-decoration: none;
 	color: #84848C !important;
 	
 }
 .footer-section  a{
 	list-style: none;
-	
+		text-decoration: none;
 	color: #84848C !important;
 	
 }
