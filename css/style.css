@@ -239,6 +239,18 @@ padding-bottom: 22px;
 	line-height: 30px;
 	font-weight: 500;
 }
+.footer-section li a{
+	list-style: none;
+	
+	color: #84848C !important;
+	
+}
+.footer-section  a{
+	list-style: none;
+	
+	color: #84848C !important;
+	
+}
 
 .footer-section  .bottom-footer ul li i{
 	color: #84848C;
@@ -246,7 +258,7 @@ padding-bottom: 22px;
     padding-left: 47px;
 }
 
-\
+
 
 /*********************** one-click-cell page **************************/
 
