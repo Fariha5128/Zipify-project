@@ -23,6 +23,7 @@ a,a:hover{
 	background-color: #FAFAFA;
 	
 }
+
 .header-section .navbar-light .navbar-nav .nav-link {
     color: #A0A0A7 !important;
     font-size: 16px;
@@ -31,6 +32,8 @@ a,a:hover{
 }
 .header-section .navbar-light .navbar-nav .nav-link:hover{
 	 color: #3BB44A !important;
+	 border-bottom: 2px solid #3BB44A;
+    transition: all 0.25s ease 0s;
 
 }
 
@@ -243,9 +246,28 @@ padding-bottom: 22px;
     padding-left: 47px;
 }
 
+\
+
+/*********************** one-click-cell page **************************/
 
 
-
+.bn-oneclick-section{
+	width: 100%;
+	padding: 150px 0px 50px;
+}
+.bn-oneclick-section img{
+	padding-top: 60px;
+}
+.bn-oneclick-section h1{
+    font-size: 49px;
+    font-weight: 600;
+    line-height: 1.17;
+    color: #3bb44a;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+.bn-oneclick-section p{font-size: 18px;font-weight: 600;line-height: 2;color: #75757e;margin-bottom: 118px;}
 
 
 /*********************** contact page **************************/

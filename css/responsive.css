@@ -1,0 +1,135 @@
+@media (max-width: 1400px) {
+	
+}
+
+@media (max-width: 1200px) {
+
+.banner-section .right-bn img{
+
+width: 95%;
+}
+.banner-section .right-bn .text-part h1{
+	
+font-size: 40px;
+}
+.box-section .btn {
+    padding: 16px 60px !important;
+  
+}
+.footer-section .bottom-footer p {
+    font-size: 16px;
+}
+
+}
+
+@media (max-width: 992px) {
+.banner-section .right-bn .text-part h1{
+	
+font-size: 28px;
+	
+line-height: 38px;
+	
+padding: 10px 0px;
+}	
+
+.banner-section .text-part li {
+    font-size: 19px;
+    line-height: 24px;
+}
+.banner-section .btn {
+    padding: 15px 60px !important;
+    
+}
+.banner-section img{
+
+}
+.text-section h2 {
+    font-size: 38px;
+   
+}
+.text-section p {
+
+    font-size: 15px;
+    
+}
+.box-section p {
+    font-size: 16px;
+    
+}
+.box-section .btn {
+    padding: 16px 19px !important;
+}   
+
+.footer-section h2 {
+    font-size: 20px;
+}   
+
+.footer-section li {
+    font-size: 16px;
+    
+}
+.footer-section .bottom-footer p {
+    font-size: 12px;
+  
+}
+}
+
+@media (max-width: 768px) {
+
+
+.banner-section .img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+/*.banner-section .right-bn img {
+    width: 200%;
+    padding-top: 24px;
+}*/
+
+.banner-section .text-part{
+	width: 100%;
+}
+.banner-section .text-part h1 {
+       /*width: 210%;*/
+   /* font-size: 52px;
+    padding-top: 7px;*/
+}	
+
+
+   .banner-section .text-part li {
+    font-size: 19px;
+    line-height: 29px;
+    /*width: 210%;*/
+}
+
+.banner-section .btn {
+    padding: 16px 44px !important;
+}
+}
+
+@media (max-width: 576px) {
+	.banner-section .right-bn img {
+    width: 87%;
+    padding-top: 62px;
+}
+
+.banner-section .text-part h1 {
+    width: 100%;
+    font-size: 19px;
+    padding-top: 7px;
+        padding-bottom: 25px;
+}
+
+.banner-section .text-part li {
+    font-size: 19px;
+    line-height: 29px;
+    width: 100%;
+}
+.banner-section .btn {
+    padding: 16px 98px !important;
+}
+.box-section .btn{
+	margin-bottom: 50px;
+}
+}
